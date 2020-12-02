@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+/Day1/x64
+/Day1/Debug
+/x64
+/.vs
+/Day1.pdb
+/Day1.ipdb
+/Day1.iobj
+/Day2/x64/Release/Day2.tlog
+/Day2/x64/Release
+/Day2/Day2.pdb
+/Day2/Day2.ipdb
+/Day2/Day2.iobj
