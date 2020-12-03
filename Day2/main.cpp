@@ -42,7 +42,6 @@ int main()
   }
 
   // Part 1
-
   size_t validPasswordCountPart1 = 0;
   for (passwordLines& p : allPasswordLines)
   {
