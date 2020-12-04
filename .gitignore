@@ -33,6 +33,7 @@
 *.pdb
 *.ipdb
 *.iobj
+*.ilk
 x64
 Debug
 Release
