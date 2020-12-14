@@ -92,8 +92,8 @@ int main()
   // Part 2
   std::vector<int64_t> n;
   std::vector<int64_t> a;
-  const size_t busCount = IDs.size(); 
-  for (size_t i = 0; i < busCount; ++i)
+  const int64_t busCount = IDs.size(); 
+  for (int64_t i = 0; i < busCount; ++i)
   {
     if (IDs[i] != 0)
     {
